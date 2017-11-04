@@ -41,7 +41,7 @@ function getPrimesSumBelow(x){
             }
         }
     }
-    console.log(sum);
+    console.log(num);
 }
 getPrimesSumBelow(10);
 
